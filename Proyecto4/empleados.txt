@@ -1,0 +1,3 @@
+Samy,Cajera,3800
+Tony,Gerente,8900
+Laika,Limpieza,1500
